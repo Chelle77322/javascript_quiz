@@ -1,3 +1,5 @@
+$(document).ready(function(){
+
 // a variable for start time
 var secondsLeft = 180;
 
@@ -187,3 +189,4 @@ function goBackBtn() {
 
 
 viewScores();
+});

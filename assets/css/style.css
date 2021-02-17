@@ -1,5 +1,22 @@
+
+.page-wrapper with-navbar with-sidebar{}
+.content{
+    background-color: #76b852;
+}
+
 .navbar{
     background-image: url("./assets/images/code.jpg");
     background-attachment: fixed;
     background-size: cover;
+}
+
+.sidebar{
+    background-color: #ee4f4f;
+}
+
+.sidebar-overlay{
+    background-color: #59626a;
+}
+.h1{
+    font-size: "22px";
 }
